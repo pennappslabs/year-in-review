@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Clara Wu -- @scwu
+    James Feuereisen -- @jofeuereisen
+    Ceasar Bautista -- @Ceasar
+    Dhruv Maheshwari -- @dhruvmah
+    Vivian Huang -- @vivianh
+    Alex Wissmann -- @awiss
+    Adel Qalieh -- @adelq
+    Derek Jobst -- @derekjobst
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
