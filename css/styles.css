@@ -2,7 +2,7 @@
   font-family: 'Bebas Neue';
   font-style: normal;
   font-weight: normal;
-  src: url('http://pennlabs.org/fonts/BebasNeue.ttf');
+  src: url('../fonts/BebasNeue.ttf');
 }
 
 body {
