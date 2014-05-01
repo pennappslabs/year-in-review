@@ -15,7 +15,7 @@ $(document).ready(function() {
           .attr("height", diameter)
           .attr("class", "bubble");
 
-      d3.json("books.json", function(error, root) {
+      d3.json("data/books.json", function(error, root) {
         console.log("analyzing json");
         var node = svg.selectAll(".node")
             .data(bubble.nodes(classes(root))
